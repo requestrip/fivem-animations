@@ -5,8 +5,8 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Walk Styles and Face Expressions saving after relogging.
 - Possibility to one time animation play or in loop mode.
 - Favourite animations saving:
-- - List with favourite animations.
-- - Possibility to set 6 different sets of favorite animations (5 animations in each set), which can be played by pressing the key.
+  - List with favourite animations.
+  - Possibility to set 6 different sets of favorite animations (5 animations in each set), which can be played by pressing the key.
 - 600+ animations in config by default.
 - Animation play with whole body or only upper body.
 - Fully optimized; 0.00-0.01 ms on idle and 0.02-0.03 ms when using playing anim, handsup etc.

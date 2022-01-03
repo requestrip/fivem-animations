@@ -8,6 +8,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Disable all animations in vehicle
 - 60+ Walk Styles
 - User-Friendly UI
+- Possibility to combine animations
 - Background Blur Option
 - Favourite animations saving:
   - List with favourite animations.

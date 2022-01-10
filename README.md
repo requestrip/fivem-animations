@@ -20,6 +20,9 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Crouch system builded in animations.
 - Built-in ability to raise your hands.
 - Finger pointing bind.
+- Exports for animations to use in another scripts
+- Option to play animations in vehicle
+- Easy to add more animations.
 
 ### MEDIA
 -

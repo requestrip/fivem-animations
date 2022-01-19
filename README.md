@@ -27,6 +27,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 ### MEDIA
 -
 - Preview: https://streamable.com/c93xxw
+- Tebex: https://raredevelopment.tebex.io/category/1942236
 - Fivem Forum Post: https://forum.cfx.re/t/qbcore-esx-best-animation-menu-700-animations-shared-animations-walking-styles-facial-expressions/4780465
 - https://discord.gg/b6JYz2cdF5
 -

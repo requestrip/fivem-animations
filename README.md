@@ -1,4 +1,6 @@
-# RD-Animations
+![](https://media.discordapp.net/attachments/986724861042892831/997127714358165534/r_aniamtions.png)
+
+# r_animations
 We hereby present our custom and advanced animation menu resource for your roleplay server with unique and amazing features to diversify your roleplay.
 
 # Features
@@ -25,9 +27,9 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Easy to add more animations.
 
 ### MEDIA
--
-- Preview: https://streamable.com/c93xxw
+- Discord: https://discord.gg/b6JYz2cdF5
 - Tebex: https://raredevelopment.tebex.io/category/animations
-- Fivem Forum Post: https://forum.cfx.re/t/qbcore-esx-best-animation-menu-700-animations-shared-animations-walking-styles-facial-expressions/4780465
-- https://discord.gg/b6JYz2cdF5
--
+- Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
+- OUTDATED!!! Preview: https://streamable.com/c93xxw
+- OUTDATED!!! Fivem Forum Post: https://forum.cfx.re/t/qbcore-esx-best-animation-menu-700-animations-shared-animations-walking-styles-facial-expressions/4780465
+

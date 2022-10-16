@@ -30,6 +30,5 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Discord: https://discord.gg/b6JYz2cdF5
 - Tebex: https://raredevelopment.tebex.io/category/animations
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
-- OUTDATED!!! Preview: https://streamable.com/c93xxw
-- OUTDATED!!! Fivem Forum Post: https://forum.cfx.re/t/qbcore-esx-best-animation-menu-700-animations-shared-animations-walking-styles-facial-expressions/4780465
+- Preview: https://streamable.com/rqyyfu
 

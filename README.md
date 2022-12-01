@@ -6,24 +6,24 @@ We hereby present our custom and advanced animation menu resource for your rolep
 # Features
 - Walk Styles and Face Expressions saving after relogging.
 - Possibility to one time animation play or in loop mode.
-- Shared Animations
-- Disable all animations in vehicle
-- 60+ Walk Styles
-- User-Friendly UI
-- Possibility to combine animations
-- Background Blur Option
 - Favourite animations saving:
-  - List with favourite animations.
-  - Possibility to set 6 different sets of favorite animations (5 animations in each set), which can be played by pressing the key.
+- List with favourite animations.
+- Possibility to set 6 different sets of favorite animations (5 animations in each set), which can be played by pressing the key.
 - 700+ animations in config by default.
+- Dark and light mode.
+- Full screen and compact mode.
+- Weapon Animations
+- Ability to edit the position of the character during the animation to fit it anywhere.
+- Injured walking style from a certain amount of hp.
 - Animation play with whole body or only upper body.
 - Fully optimized; 0.00-0.01 ms on idle and 0.02-0.03 ms when using playing anim, handsup etc.
 - Synced perfectly between all players and works flawlessly.
-- Crouch system builded in animations.
-- Built-in ability to raise your hands.
-- Finger pointing bind.
-- Exports for animations to use in another scripts
+- Built-in ragdoll, crouch, handsup and pointing.
+- Option to combine animations
+- Background blur option
 - Option to play animations in vehicle
+- Shared Animations
+- Exports for animations to use in another scripts
 - Easy to add more animations.
 
 ### MEDIA

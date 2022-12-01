@@ -27,6 +27,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Easy to add more animations.
 
 ### MEDIA
+- Forum Post: https://forum.cfx.re/t/paid-r-animations-most-complete-animation-menu/
 - Discord: https://discord.gg/b6JYz2cdF5
 - Tebex: https://raredevelopment.tebex.io/category/scripts
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home

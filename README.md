@@ -33,3 +33,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
 - Preview: https://streamable.com/rqyyfu
 
+# ANOTHER RESOURCES
+- r_simcards - https://github.com/requestrip/r_simcards
+- r_mileage - https://github.com/requestrip/fivem-mileage
+

@@ -3,6 +3,8 @@
 # r_animations
 We hereby present our custom and advanced animation menu resource for your roleplay server with unique and amazing features to diversify your roleplay.
 
+# Preview: https://youtu.be/OzpD2nTjGJs
+
 # Features
 - Walk Styles and Face Expressions saving after relogging.
 - Possibility to one time animation play or in loop mode.
@@ -31,7 +33,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Discord: https://discord.gg/b6JYz2cdF5
 - Tebex: https://raredevelopment.tebex.io/category/scripts
 - Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
-- Preview: https://streamable.com/rqyyfu
+- Preview: https://youtu.be/OzpD2nTjGJs
 
 # ANOTHER RESOURCES
 - r_simcards - https://github.com/requestrip/r_simcards

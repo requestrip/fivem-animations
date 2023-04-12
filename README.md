@@ -20,7 +20,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Animation play with whole body or only upper body.
 - Fully optimized; 0.00-0.01 ms on idle and 0.02-0.03 ms when using playing anim, handsup etc.
 - Synced perfectly between all players and works flawlessly.
-- Built-in ragdoll, crouch, handsup and pointing.
+- Built-in ragdoll, crouch, crawl, handsup and pointing.
 - Option to combine animations
 - Background blur option
 - Option to play animations in vehicle

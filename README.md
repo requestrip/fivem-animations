@@ -39,4 +39,4 @@ We hereby present our custom and advanced animation menu resource for your rolep
 # ANOTHER RESOURCES
 - r_simcards - https://github.com/requestrip/r_simcards
 - r_mileage - https://github.com/requestrip/fivem-mileage
-
+- r_vehiclelocks - https://github.com/requestrip/fivem-vehiclelocks

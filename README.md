@@ -33,7 +33,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Discord: https://discord.gg/b6JYz2cdF5
 - Tebex Escrow Protected: https://raredevelopment.tebex.io/category/scripts
 - Tebex Open-Source: https://raredevelopment.tebex.io/category/opensource
-- Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
+- Docs: https://raredevelopment.gitbook.io/docs/rare-development/
 - Preview: https://youtu.be/OzpD2nTjGJs
 
 # ANOTHER RESOURCES

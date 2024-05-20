@@ -11,7 +11,7 @@ We hereby present our custom and advanced animation menu resource for your rolep
 - Favourite animations saving:
 - List with favourite animations.
 - Possibility to set 6 different sets of favorite animations (5 animations in each set), which can be played by pressing the key.
-- 700+ animations in config by default.
+- 900+ animations in config by default.
 - Dark and light mode.
 - Full screen and compact mode.
 - Weapon Animations
